@@ -1,4 +1,4 @@
-### Note : Code is from NPCat, this repo is just just a version that is easier to install
+### Note : The code is from NPCat, this repo is just just a version that is easier to install
 
 # Introduction
 Hi! This is the code for my bad apple bot
