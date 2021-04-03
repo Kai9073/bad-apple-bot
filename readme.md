@@ -11,3 +11,9 @@ Then in the folder, run these commmands:
 - `pip install dotenv`
 
 Next , you need to create a file called `.env`
+in the .env you need to paste your token 
+
+```env
+TOKEN = YOUR.TOKEN.HERE
+```
+
