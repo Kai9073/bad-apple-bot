@@ -1,3 +1,5 @@
+### Note : Code is from NPCat, this repo is just just a version that is easier to install
+
 # Introduction
 Hi! This is the code for my bad apple bot
 
@@ -29,3 +31,5 @@ To start the bot, run this command (also in command prompt or terminal):
 1. Invite the bot to a server and give them proper permissions
 2. Type `!bad apple`
 3. It will start sending the messages
+
+Note : for copyright issues you can make an issue and I will delete this repo.
