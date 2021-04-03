@@ -1,7 +1,9 @@
-### Note : The code is from NPCat, this repo is just just a version that is easier to install
+### Note : The code is from NPCat, this repo is just a version that is easier to install
 
 # Introduction
-Hi! This is the code for my bad apple bot
+Hi! Using this repo you can make a bot to play bad apple in Discord with messages
+The code is not written by me, I just changed a few lines of the code and 
+made it easier to install with a readme file
 
 Code from NPCat |
 https://github.com/NPCat/bad-apple-bot
