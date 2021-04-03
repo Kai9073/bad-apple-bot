@@ -1,6 +1,14 @@
 import discord
 import time
 from PIL import Image
+import os
+from os.path import join, dirname
+from dotenv import load_dotenv
+
+dotenv_path = join(dirname(__file__), '.env')
+load_dotenv(dotenv_path)
+
+SECRET_KEY = os.environ.get("TOKEN")
 
 CLIP_FRAMES = 6571
 
@@ -94,4 +102,4 @@ async def on_message(message):
 
                     disp = True
 
-client.run('')#<--- Put bot token here
+client.run(SECRET_KEY)#<--- Put bot token here
