@@ -5,7 +5,7 @@ Code from NPCat |
 https://github.com/NPCat/bad-apple-bot
 
 If you want to make this to work, download the zip, extract it
-Then in the folder, run these commmands:
+Then in the folder, run these commmands (in command prompt or terminal):
 - `pip install discord.py`
 - `pip install pillow`
 - `pip install dotenv`
@@ -17,3 +17,7 @@ in the .env you need to paste your token
 TOKEN = YOUR.TOKEN.HERE
 ```
 
+to run the bot , run this command (also in command prompt or terminal):
+- `python "bad apple discord player.py"`
+
+Make sure you have python installed on your device.
