@@ -21,3 +21,8 @@ to run the bot , run this command (also in command prompt or terminal):
 - `python "bad apple discord player.py"`
 
 Make sure you have python installed on your device.
+
+Making the bot the send the messages
+1. Invite the bot to a server and give them proper permissions
+2. Type `!bad apple`
+3. It will start sending the messages
