@@ -30,8 +30,8 @@ To start the bot, run this command (also in command prompt or terminal):
 **Make sure you have python installed on your device.**
 
 # Make the bot to send the messages
-1. Invite the bot to a server and give them proper permissions
+1. Invite the bot to a server and give it proper permissions
 2. Type `!bad apple`
 3. It will start sending the messages
 
-Note : for copyright issues you can make an issue and I will delete this repo.
+Note : for copyright issues you can create an issue and I will delete this repo.
